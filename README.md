@@ -1,8 +1,8 @@
-Comparative Book Analysis: Ratings vs. Rankings 📚
+# Comparative Book Analysis: Ratings vs. Rankings 
 
 This project provides a statistical breakdown of how the 21st century's top literature is perceived differently across commercial, community, and critic-based platforms. By analyzing discrepancies between ratings (consumer-driven) and rankings (critic-driven), the study highlights platform biases and regional audience preferences. 
 ________________________________________
-🔍 Project Overview
+# Project Overview
 
 This study uses web scraping and data visualization to analyze the "Top 100 Best Books of the 21st Century" across six major platforms. 
 
@@ -12,7 +12,7 @@ To maintain logical consistency, the analysis is segmented into two distinct cat
 
 •	Ranking-Based Comparison: The New York Times (NYT), The Guardian, and Reader’s Digest. 
 ________________________________________
-🧠 Methodology Logic
+# Methodology Logic
 
 A core constraint of this study is the technical distinction between data types:
 
@@ -20,7 +20,7 @@ A core constraint of this study is the technical distinction between data types:
 
 •	Platform Segmentation: To ensure statistical integrity, rating-based platforms are compared against each other, while ranking-based lists are analyzed separately to identify internal consistency among critics. 
 ________________________________________
-💡 Key Analytical Insights
+# Key Analytical Insights
 
 1. Consumer Ratings (Amazon vs. Goodreads vs. Flipkart) 🛒
    
@@ -38,7 +38,7 @@ ________________________________________
 
 •	Universal Acceptance: Only a handful of books achieve high standing across both critic-based and reader-driven platforms. 
 ________________________________________
-🛠️ Technical Tools Used
+# Technical Tools Used
 
 •	Data Collection: Web Scraping. 
 
@@ -46,11 +46,11 @@ ________________________________________
 
 •	Visualization: Power BI and Excel dashboards for comparative charting. 
 ________________________________________
-🏁 Conclusion
+# Conclusion
 
 The data proves that a book's "success" is highly dependent on the platform's audience. Amazon reflects buying trends, Goodreads reflects literary scrutiny, and NYT/The Guardian reflect expert critical standards. 
 ________________________________________
-🚀 Future Scope
+# Future Scope
 
 •	Integrating sentiment analysis of reader reviews to supplement numerical ratings. 
 
